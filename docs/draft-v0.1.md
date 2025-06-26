@@ -168,7 +168,7 @@ Reducing integration complexity accelerates innovation. One standard should work
 
 ## 7  Governance & Roadmap
 
-- **Founding Members (in formation):** Papr, Georgia Tech CoC, Qdrant, Hypernym, (seeking Neo4j, Chroma, Mem0…)
+- **Founding Members (in formation):** Papr, Georgia Tech CoC, Qdrant (seeking Neo4j, Chroma, Mem0…)
 
 - **July 2025:** Kick‑off WG‑1 (Schema), WG‑2 (API), WG‑3 (Safety Tests)
 
