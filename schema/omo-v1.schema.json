@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id":     "https://open-memory.org/OMO-v1.schema.json",
+  "title":   "Open Memory Object (OMO)",
+  "type":    "object",
+
+  "required": ["id", "createdAt", "type", "content", "consent"],
+  "properties": {
+    "id":        { "type": "string", "description": "Global URI or UUID" },
+    "createdAt": { "type": "string", "format": "date-time" },
+
+    "type": {
+      "type": "string",
+      "enum": ["text", "image", "audio", "video", "file", "code"],
+      "description": "Primary media type of the memory"
+    },
+
+    "content":   { "type": "string", "description": "UTF-8 (or base64) body—may be truncated for binary blobs" },
+
+    "consent": {
+      "type": "string",
+      "enum": ["explicit", "implicit", "terms", "none"],
+      "description": "How the data owner allowed this memory to be stored/used"
+    },
+
+    "risk": {
+      "type": "string",
+      "enum": ["none", "sensitive", "flagged"],
+      "default": "none",
+      "description": "Post-ingest safety assessment: suppress or filter on retrieval"
+    },
+
+    "topics":    { "type": "array", "items": { "type": "string" } },
+    "sourceUrl": { "type": "string", "format": "uri" },
+
+    "acl": {
+      "type": "object",
+      "properties": {
+        "read":  { "type": "array", "items": { "type": "string" } },
+        "write": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    },
+
+    "ext": {
+      "type": "object",
+      "description": "Namespaced extension fields; keys SHOULD use a vendor prefix (e.g. 'papr:relationships')",
+      "additionalProperties": true
+    }
+  },
+
+  "additionalProperties": false
+}
