@@ -243,7 +243,7 @@ Should the consortium need to dissolve:
 **Primary Repository:** https://github.com/papr-ai/open-memory-object  
 **Governance Email:** governance@open-memory.org (planned)  
 **Community Discord:** #omo-spec (planned)  
-**Academic Contact:** Dr. Vivek Sarkar, Georgia Tech College of Computing  
+**Academic Contact:** Appointee from Georgia Tech College of Computing  
 **Industry Contact:** Shawkat, Papr CEO
 
 ---
