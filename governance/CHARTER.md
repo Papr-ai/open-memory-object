@@ -81,7 +81,6 @@ Single integration point reduces complexity and accelerates innovation.
 
 **Academic Chair:** Georgia Tech College of Computing  
 **Representative:** Dr. Vivek Sarkar (Dean) or an appointee
-
 **Role:** Neutral technical leadership, safety expertise
 
 **Industry Lead:** Papr  
