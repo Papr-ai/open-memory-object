@@ -1,5 +1,5 @@
 <figure data-type="blockquoteFigure">
-<div><blockquote><p data-id="fcbe17b7-86a0-465b-93b4-31dbc95e4521"><strong>Status:</strong> ✨ <em>Working draft for community review.</em><br>This document <strong>has not yet been ratified</strong> by the founding members (Georgia Tech, Hypernym, Qdrant, etc.).<br>Comments, Pull&nbsp;Requests, and Issues are welcome.</p></blockquote><figcaption></figcaption></div>
+<div><blockquote><p data-id="fcbe17b7-86a0-465b-93b4-31dbc95e4521"><strong>Status:</strong> ✨ <em>Working draft for community review.</em><br>This document <strong>has not yet been ratified</strong> by the founding members (Georgia Tech, Qdrant, etc.).<br>Comments, Pull&nbsp;Requests, and Issues are welcome.</p></blockquote><figcaption></figcaption></div>
 </figure>
 
 ---
