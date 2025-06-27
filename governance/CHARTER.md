@@ -55,11 +55,11 @@ All specifications, reference implementations, and governance processes are publ
 
 **Platform Coverage:**
 - **Memory Platforms:** Papr, Mem0, Zep, Letta, Pinecone Memory
-- **Databases:** Neo4j, Qdrant, MongoDB, PostgreSQL, Supabase, Neon
+- **Databases:** Neo4j, Qdrant, MongoDB, PostgreSQL, Supabase, Neon, Chroma
 - **Cloud Providers:** Azure, AWS, Google Cloud
 - **LLM Providers:** OpenAI, Anthropic, Google, local models
 - **Applications:** Cursor, Notion AI, GitHub Copilot, custom agents
-- **Orchestration:** LangChain, LangGraph, Letta, custom frameworks
+- **Orchestration:** LlamaIndex, LangChain, Letta, custom frameworks
 
 ### 4.2 Safety & Privacy Objectives
 
@@ -80,7 +80,7 @@ All specifications, reference implementations, and governance processes are publ
 ### 5.1 Founding Member Structure
 
 **Academic Chair:** Georgia Tech College of Computing  
-**Representative:** Dr. Vivek Sarkar (Dean)  
+**Representative:** Dr. Vivek Sarkar (Dean) or an appointee
 **Role:** Neutral technical leadership, safety expertise
 
 **Industry Lead:** Papr  
