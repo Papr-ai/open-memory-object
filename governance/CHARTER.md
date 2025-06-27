@@ -93,9 +93,9 @@ Single integration point reduces complexity and accelerates innovation.
 **Role:** Vector database perspective, performance optimization
 
 **Additional Founding Members (Target 5-7 total):**
-- Graph database representative (Neo4j, Qlever)
+- Graph database representative  
 - Privacy/security expert (Georgia Tech faculty)
-- Memory platform representative (Mem0, Zep, Letta)
+- Agent orchestration  
 
 ### 5.2 Governance Model
 
