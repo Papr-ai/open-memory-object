@@ -93,9 +93,9 @@ Single integration point reduces complexity and accelerates innovation.
 **Role:** Vector database perspective, performance optimization
 
 **Additional Founding Members (Target 5-7 total):**
-- Graph database representative (Neo4j, Qlever)
+- Graph database representative  
 - Privacy/security expert (Georgia Tech faculty)
-- Memory platform representative (Mem0, Zep, Letta)
+- Agent orchestration  
 
 ### 5.2 Governance Model
 
@@ -243,7 +243,7 @@ Should the consortium need to dissolve:
 **Primary Repository:** https://github.com/papr-ai/open-memory-object  
 **Governance Email:** governance@open-memory.org (planned)  
 **Community Discord:** #omo-spec (planned)  
-**Academic Contact:** Dr. Vivek Sarkar, Georgia Tech College of Computing  
+**Academic Contact:** Appointee from Georgia Tech College of Computing  
 **Industry Contact:** Shawkat, Papr CEO
 
 ---
