@@ -15,12 +15,12 @@ The founding committee makes decisions during the formation phase:
 | Role | Organization | Representative | Status |
 |------|-------------|----------------|---------|
 | **Academic Chair** | Georgia Tech College of Computing | Dr. Vivek Sarkar (Dean) or an appointee | Confirmed |
-| **Industry Lead** | Papr | Shawkat (CEO) | Confirmed |
+| **Industry Lead - Memory Platform** | Papr | Shawkat (CEO) | Confirmed |
 | **Vector DB** | Qdrant | Andre (CEO) | In Discussion |
 | **Graph DB** | Neo4j / Qlever | TBD | Seeking |
 | **Privacy Expert** | Georgia Tech Faculty | TBD | Identifying |
-| **Memory Platform** | Mem0 / Zep / Letta | TBD | Seeking |
-| **Additional** | Open | TBD | Seeking |
+| **Agent Orchestration** | LlamaIndex / LangChain | TBD | Seeking  
+| **Traditional DB** | Supabase / MongoDB | TBD | Seeking  
 
 ### Governance Principles
 
