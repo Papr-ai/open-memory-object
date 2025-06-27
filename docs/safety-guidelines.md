@@ -1,6 +1,6 @@
 # Open Memory Object (OMO) Safety Guidelines
 
-![OMO Safety Badge](./assets/omo-safe-badge.png)
+![OMO Safety Badge](../assets/omo-safe-badge.png)
 
 **Version:** 1.0 (Draft)  
 **Status:** Working Group 3 Development  
