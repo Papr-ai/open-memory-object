@@ -19,8 +19,8 @@ The founding committee makes decisions during the formation phase:
 | **Vector DB** | Qdrant | Andre (CEO) | In Discussion |
 | **Graph DB** | Neo4j / Qlever | TBD | Seeking |
 | **Privacy Expert** | Georgia Tech Faculty | TBD | Identifying |
-| **Agent Orchestration** | LlamaIndex | Langchain | Letta | TBD | Seeking |
-| **Traditional DB** | Supabase | MongoDB | Neon | Postgress | TBD | Seeking |
+| **Agent Orchestration** | TBD | TBD | TBD  
+| **Traditional DB** | TBD | TBD | TBD  
 
 ### Governance Principles
 
