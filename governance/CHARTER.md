@@ -27,20 +27,20 @@ The AI memory ecosystem is fragmented across proprietary formats, creating:
 
 ## 3. Core Principles
 
-### 3.1 User Sovereignty
-Memory belongs to users, not platforms. All operations must respect explicit consent and provide "forget-me" controls.
-
-### 3.2 Safety First
+### 🛡️ **Safety First**
 Every memory object carries built-in safety metadata, enabling automatic risk assessment and content filtering before reaching AI models.
 
-### 3.3 Privacy by Design
+### 👤 **User Sovereignty** 
+Memory belongs to users, not platforms. All operations must respect explicit consent and provide "forget-me" controls.
+
+### 🔒 **Privacy by Design**
 Consent tracking is mandatory. Every memory object explicitly records how consent was obtained and permissions granted.
 
-### 3.4 Academic Neutrality
-Technical decisions are guided by academic research and peer review, not commercial interests.
+### 🔗 **Universal Interoperability**
+One standard across memory platforms, databases, cloud providers, and AI systems. All specifications, reference implementations, and governance processes are publicly available under permissive licenses.
 
-### 3.5 Open Standards
-All specifications, reference implementations, and governance processes are publicly available under permissive licenses.
+### ⚡ **Developer Simplicity**
+Single integration point reduces complexity and accelerates innovation.
 
 ## 4. Scope & Objectives
 

@@ -26,16 +26,16 @@ LLM-powered agents and AI applications depend on **long-term memory** for person
 ## Core Principles
 
 ### 🛡️ **Safety First**
-Built-in risk assessment and content filtering metadata in every memory object.
+Every memory object carries built-in safety metadata, enabling automatic risk assessment and content filtering before reaching AI models.
 
 ### 👤 **User Sovereignty** 
-Memory belongs to users, not platforms. Explicit consent and "forget-me" controls.
+Memory belongs to users, not platforms. All operations must respect explicit consent and provide "forget-me" controls.
 
 ### 🔒 **Privacy by Design**
-Mandatory consent tracking and granular access controls.
+Consent tracking is mandatory. Every memory object explicitly records how consent was obtained and permissions granted.
 
 ### 🔗 **Universal Interoperability**
-One standard across memory platforms, databases, cloud providers, and AI systems.
+One standard across memory platforms, databases, cloud providers, and AI systems. All specifications, reference implementations, and governance processes are publicly available under permissive licenses.
 
 ### ⚡ **Developer Simplicity**
 Single integration point reduces complexity and accelerates innovation.
