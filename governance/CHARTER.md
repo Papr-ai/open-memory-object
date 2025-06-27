@@ -80,7 +80,7 @@ Single integration point reduces complexity and accelerates innovation.
 ### 5.1 Founding Member Structure
 
 **Academic Chair:** Georgia Tech College of Computing  
-**Representative:** Dr. Vivek Sarkar (Dean) or an appointee
+**Representative:** Dr. Vivek Sarkar (Dean) or an appointee \n
 **Role:** Neutral technical leadership, safety expertise
 
 **Industry Lead:** Papr  
