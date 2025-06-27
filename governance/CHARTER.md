@@ -54,8 +54,8 @@ Single integration point reduces complexity and accelerates innovation.
 - Certification test suite and compliance framework
 
 **Platform Coverage:**
-- **Memory Platforms:** Papr, Mem0, Zep, Letta, Pinecone Memory
-- **Databases:** Neo4j, Qdrant, MongoDB, PostgreSQL, Supabase, Neon, Chroma
+- **Memory Platforms:** Papr, Mem0, Zep, Letta
+- **Databases:** Neo4j, Qdrant, MongoDB, PostgreSQL, Supabase, Neon, Chroma, Pinecone
 - **Cloud Providers:** Azure, AWS, Google Cloud
 - **LLM Providers:** OpenAI, Anthropic, Google, local models
 - **Applications:** Cursor, Notion AI, GitHub Copilot, custom agents
